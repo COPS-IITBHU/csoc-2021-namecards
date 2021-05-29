@@ -11,7 +11,7 @@ export default function Card(props) {
                         <div>
                             <h5>{name}</h5>
                         </div>
-                        <div className="text-muted">{children}</div>
+                        <div className="text-muted" dangerouslySetInnerHTML={{ __html: children }}></div>
                     </div>
                 </div>
                 <div className="text-center py-3">
