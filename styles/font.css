@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Made Tommy";
+    font-weight: 300;
+    src: url("/fonts/madetommy/mt-thin.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Made Tommy";
+    font-weight: 400;
+    src: url("/fonts/madetommy/mt-light.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Made Tommy";
+    font-weight: 500;
+    src: url("/fonts/madetommy/mt-regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Made Tommy";
+    font-weight: 600;
+    src: url("/fonts/madetommy/mt-medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Made Tommy";
+    font-weight: 700;
+    src: url("/fonts/madetommy/mt-bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Made Tommy";
+    font-weight: 800;
+    src: url("/fonts/madetommy/mt-extrabold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("/fonts/helvetica/helvetica-regular.ttf") format("truetype");
+}
