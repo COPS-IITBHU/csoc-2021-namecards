@@ -20,6 +20,24 @@ export default function Card(props) {
                     </a>
                 </div>
             </div>
+
+            <div className="item-shadow h-100 d-flex flex-column justify-content-between">
+                <div>
+                    <div className="img-box" style={{ backgroundImage: `url(${Ankur.jpg})` }}></div>
+                    <div className="p-3">
+                        <div>
+                            <h5>{Ankur}</h5>
+                        </div>
+                        <div className="text-muted" dangerouslySetInnerHTML={{ __html: children }}></div>
+                    </div>
+                </div>
+                <div className="text-center py-3">
+                    <a href={props.github} target="_blank">
+                        <SingleIconButton>Github Profile</SingleIconButton>
+                    </a>
+                </div>
+            </div>
+
             <style jsx>{`
                 .img-box {
                     padding-top: 85%;
