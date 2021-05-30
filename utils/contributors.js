@@ -8,9 +8,10 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
-        handle_name: 'subodhk',
-        name: "Subodh Verma",
-        image: "/images/subodh.jpg",
+        handle_name: 'Vishal251073',
+        name: "Vishal Das",
+        image: "/images/srm -f .git/index.lockubodh.jpg",
+        // My linkedin image link was quite large
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
