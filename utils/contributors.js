@@ -37,7 +37,7 @@ const CONTRIBUTERS = [
     {
         id: 3,
         name: "Nikita Sharma",
-        image: "/images/n4ik9ta.jpg",
+        image: "/images/nikita.jpg",
         description: "Hola. Stay safe.",
         github: "https://github.com/n4i9kita",
     },
