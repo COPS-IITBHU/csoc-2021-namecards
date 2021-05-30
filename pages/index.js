@@ -14,7 +14,7 @@ export default function Home() {
                 </div>
                 <div className="row no-gutters mt-2">
                     {contributors.map((item, index) => (
-                        <div className="col-12 col-md-6 col-lg-3 p-3" key={item.id}>
+                        <div className="col-12 col-md-6 col-lg-3 p-3" key={item.handle_name}>
                             <Card name={item.name} image={item.image} github={item.github}>
                                 {item.description}
                             </Card>
