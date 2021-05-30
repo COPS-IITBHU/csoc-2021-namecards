@@ -37,7 +37,7 @@ const CONTRIBUTERS = [
         handle_name: 'sumanth',
         name: "Sai Sumanth Kumar",
         image: "/images/saisumanth.jpg",
-        description: "😎 Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away ✌️✌️",
+        description: "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away 😎✌️",
         github: "https://github.com/saisumanthkumar",
     },
 ];
