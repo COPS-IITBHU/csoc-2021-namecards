@@ -1,6 +1,6 @@
 const CONTRIBUTERS = [
     {
-        id: 1,
+        handle_name: 'cops_iitbhu',
         name: "First Card",
         image: "/images/cops.jpg",
         description: "Hello everyone, this is the first card. Go ahead, add your own!",
@@ -8,7 +8,7 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
-        id: 2,
+        handle_name: 'subodhk',
         name: "Subodh Verma",
         image: "/images/subodh.jpg",
         description: `
