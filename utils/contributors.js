@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'a-dima',
+        name: "Nandini Daruka",
+        image: "public\images\pngtree-dark-vector-abstract-background-image_302715.jpg",
+        description: "Hello, this is Nandini...!",
+        github: "https://github.com/a-dima",  
+    },
 ];
 
 export default CONTRIBUTERS;
