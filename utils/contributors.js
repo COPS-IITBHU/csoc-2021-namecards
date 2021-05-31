@@ -34,7 +34,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/subodhk01",
     },
     {
-        handle_name: 'subodhk',
+        handle_name: 'sahil',
         name: "Sahil saini",
         image: "/images/sahilsaini.jpg",
         description: `"Love to work, if i love the work."     
