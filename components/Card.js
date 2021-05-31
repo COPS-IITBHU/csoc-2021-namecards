@@ -6,17 +6,16 @@ export default function Card(props) {
         <>
             <div className="item-shadow h-100 d-flex flex-column justify-content-between">
                 <div>
-                    <div className="img-box" style={{ backgroundImage: `url(${image})` }}>
-                    </div>
+                    <div className="img-box" style={{ backgroundImage: `url(${image})` }}> </div>
                     <div className="p-3">
                         <div>
-                            <h5>{Vishal_Das}</h5>
+                            <h5>{name}</h5>
                         </div>
                         <div className="text-muted" dangerouslySetInnerHTML={{ __html: children }}></div>
                     </div>
                 </div>
                 <div className="text-center py-3">
-                    <a href="https://github.com/Vishal251073" target="_blank"> 
+                    <a href={props.github} target="_blank"> 
                         <SingleIconButton>Github Profile</SingleIconButton>
                     </a>
                 </div>
