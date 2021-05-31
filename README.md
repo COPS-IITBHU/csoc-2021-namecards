@@ -10,7 +10,8 @@ The Web Page is live at - [COPS-NameCards](https://csoc-2021-namecards.netlify.a
 
 -   Fork the project to your github account
 -   Clone it in your system i.e Linux/Windows
--   Edit the cloned repository to include your NameCard
+-   Create a new branch for your changes
+-   Edit the cloned repository to include your NameCard (these changes should be in the new branch)
 -   When done editing, commit your work locally and push it to origin.
 -   Make a pull request to our repository with proper description.
 -   Let us review your pull request and get it merged to our repository.
