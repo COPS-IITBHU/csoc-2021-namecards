@@ -37,7 +37,7 @@ const CONTRIBUTERS = [
         handle_name: 'divyanshkhetan',
         name: "Divyansh Khetan",
         image: "/images/Developer.jpg",
-        description: "Keep grinding even if it is such a drag 😐. Stay Safe!",
+        description: "Keep grinding even if it is such a drag 😀. Stay Safe!",
         github: "https://github.com/divyanshkhetan",
     },
 ];
