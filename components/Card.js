@@ -7,7 +7,6 @@ export default function Card(props) {
             <div className="item-shadow h-100 d-flex flex-column justify-content-between">
                 <div>
                     <div className="img-box" style={{ backgroundImage: `url(${image})` }}>
-                        <script src="https://i.pinimg.com/564x/f6/83/d4/f683d48c18419279a259d5f1a9aa9817.jpg">backgroundImage</script>
                     </div>
                     <div className="p-3">
                         <div>
