@@ -7,7 +7,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/COPS-IITBHU",
     },
     // Start adding your data below
-    { 
+    {
         handle_name: 'subodhk',
         name: "Subodh Verma",
         image: "/images/subodh.jpg",
@@ -36,10 +36,10 @@ const CONTRIBUTERS = [
     {
         handle_name: 'somesh202',
         name: "Somesh Ranjan",
-        image: "/images/image1.jpg",
+        image: "/images/somesh.jpg",
         description: `Hey there, I am using Github !!`,
         github: "https://github.com/somesh202",
-    }
+    },
 ];
 
 export default CONTRIBUTERS;
