@@ -37,7 +37,7 @@ const CONTRIBUTERS = [
         handle_name: 'a-dima',
         name: "Nandini Daruka",
         image: "public\images\pngtree-dark-vector-abstract-background-image_302715.jpg",
-        description: "Hello, this is Nandini...!",
+        description: "Hello, this is Nandini.. I have started with web dev!",
         github: "https://github.com/a-dima",  
     },
 ];
