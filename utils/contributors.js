@@ -36,7 +36,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'puranjayK',
         name: "Puranjay Khanijo",
-        image: "/images/penguin.jpg",
+        image: "/images/puranjay.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
