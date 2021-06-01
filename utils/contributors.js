@@ -33,7 +33,7 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
-    // My Details
+
     {
         handle_name: 'spandanhalder',
         name: "Spandan Halder",
