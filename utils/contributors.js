@@ -37,7 +37,7 @@ const CONTRIBUTERS = [
         handle_name: 'somesh202',
         name: "Somesh Ranjan",
         image: "/images/image1.jpg",
-        description: `Hey there, I am using Github :)`,
+        description: `Hey there, I am using Github !!`,
         github: "https://github.com/somesh202",
     }
 ];
