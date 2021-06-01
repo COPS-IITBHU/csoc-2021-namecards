@@ -18,17 +18,5 @@
   },
   "devDependencies": {
     "prettier": "^2.3.0"
-  },
-  "description": "This repository contains your second challenge of this week. To fully accomplish\r this challenge you should have get successfully merged your pull request about\r including your namecard in it.",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SATAKSHI08/csoc-2021-namecards.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SATAKSHI08/csoc-2021-namecards/issues"
-  },
-  "homepage": "https://github.com/SATAKSHI08/csoc-2021-namecards#readme"
+  }
 }
