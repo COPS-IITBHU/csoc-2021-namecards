@@ -10,7 +10,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'HinesWolf',
         name: "Baibhav Mohanty",
-        image: "![HinesWolf](https://user-images.githubusercontent.com/85103233/120382614-7a796a00-c341-11eb-9138-4f43503499d5.jpg)",
+        image: "/images/HinesWolf.jpg",
 
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
