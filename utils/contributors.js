@@ -33,7 +33,6 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
-
     {
         handle_name: 'Pratik01-git',
         name: "Pratik Kumar Soni",
@@ -59,7 +58,7 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/Pratik01-git",
-    }
+    },
 ];
 
 export default CONTRIBUTERS;
