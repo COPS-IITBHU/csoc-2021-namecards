@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'iamaks287',
+        name: "Ashwat Kumar Singh",
+        image: "/images/ashwat_vector.jpg",
+        description: "Hello everyone, life is a struggle and nothing really matters. OVER AND OUT!!",
+        github: "https://github.com/iamaks287",
+    },
 ];
 
 export default CONTRIBUTERS;
