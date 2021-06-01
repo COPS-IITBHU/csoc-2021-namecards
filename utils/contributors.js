@@ -8,9 +8,11 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     { 
-        handle_name: 'subodhk',
-        name: "Subodh Verma",
-        image: "/images/subodh.jpg",
+        handle_name: 'Vishal251073',
+        name: "Vishal Das",
+        image: "![Vishal](https://user-images.githubusercontent.com/80738848/120131420-12624100-c1e6-11eb-8a2f-8c56113d2d9f.jpg)",
+        description: `Hey there, I am using Github :)`,
+        github: "https://github.com/Vishal251073",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
@@ -33,13 +35,6 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
-    {
-        handle_name: 'Vishal251073',
-        name: "Vishal Das",
-        image: "![Vishal](https://user-images.githubusercontent.com/80738848/120131420-12624100-c1e6-11eb-8a2f-8c56113d2d9f.jpg)",
-        description: `Hey there, I am using Github :)`,
-        github: "https://github.com/Vishal251073",
-    }
 ];
 
 export default CONTRIBUTERS;
