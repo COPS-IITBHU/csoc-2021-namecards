@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'stuck-in-a-conundrum',
+        name: "Drishti Bansal",
+        image: "/images/drishti-img.jpg",
+        description: "Hello everyone, this is Drishti from Mechanical Part 1.",
+        github: "https://github.com/stuck-in-a-conundrum",
+    },
 ];
 
 export default CONTRIBUTERS;
