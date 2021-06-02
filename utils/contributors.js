@@ -10,7 +10,7 @@ const CONTRIBUTERS = [
     { 
         handle_name: 'Vishal251073',
         name: "Vishal Das",
-        image: "![Vishal](https://user-images.githubusercontent.com/80738848/120131420-12624100-c1e6-11eb-8a2f-8c56113d2d9f.jpg)",
+        image: "/images/csoc.jpg",
         description: `Hey there, I am using Github :)`,
         github: "https://github.com/Vishal251073",
         description: `
