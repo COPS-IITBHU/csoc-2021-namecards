@@ -6,7 +6,6 @@ const CONTRIBUTERS = [
         description: "Hello everyone, this is the first card. Go ahead, add your own!",
         github: "https://github.com/COPS-IITBHU",
     },
-    // Start adding your data below
     {
         handle_name: 'subodhk',
         name: "Subodh Verma",
@@ -33,6 +32,15 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'amit-shew',
+        name: "My First Card",
+        image: "/images/amit-shew.jpg",
+        description: "Hello everyone, this is the first card by me :)",
+        github: "https://github.com/amit-shew",
+    },
+    
+    
 ];
 
 export default CONTRIBUTERS;
