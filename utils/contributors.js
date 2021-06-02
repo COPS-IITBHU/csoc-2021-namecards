@@ -7,10 +7,12 @@ const CONTRIBUTERS = [
         github: "https://github.com/COPS-IITBHU",
     },
     // Start adding your data below
-    {
-        handle_name: 'subodhk',
-        name: "Subodh Verma",
-        image: "/images/subodh.jpg",
+    { 
+        handle_name: 'Vishal251073',
+        name: "Vishal Das",
+        image: "/images/csoc.jpg",
+        description: `Hey there, I am using Github :)`,
+        github: "https://github.com/Vishal251073",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
