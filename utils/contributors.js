@@ -33,12 +33,11 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
-    //Arvind Yadav
     {
         handle_name: 'Arvind0302',
         name: "Arvind Yadav",
-        image: "/images/arvind.jpg",
-        description: "Hello, I am Arvind Yadav, an aspiring full stack web developer.",
+        image: "/images/arvindyadav.jpg",
+        description: "Hello everyone, I am Arvind Yadav , an aspiring web developer",
         github: "https://github.com/Arvind0302",
     },
 ];
