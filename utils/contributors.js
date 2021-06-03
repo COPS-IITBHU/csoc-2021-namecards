@@ -32,6 +32,14 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/subodhk01",
+        
+    },
+    {
+        handle_name: 'shady_v',
+        name: "Vanshika Gupta",
+        image: "/images/Vanshika.jpg",
+        description: "Hello everyone!",
+        github: "https://github.com/shady-v",
     },
 ];
 
