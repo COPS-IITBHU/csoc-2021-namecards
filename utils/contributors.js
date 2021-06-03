@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'AG-7219',
+        name: "Ayush gangwani",
+        image: "/images/l.png",
+        description: "Time is yet another dimension. We scale it ourselves.",
+        github: "https://github.com/AG-7219",
+    },
 ];
 
 export default CONTRIBUTERS;
