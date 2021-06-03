@@ -34,8 +34,8 @@ const CONTRIBUTERS = [
         github: "https://github.com/subodhk01",
     },
     {
-        id: 3,
-        name: "PriyanshiNama",
+        handle_name: 'PriyanshiNama',
+        name: "Priyanshi Nama",
         image: "/images/Priyanshi.jpeg",
         description: "Hello everyone, Priyanshi here!",
         github: "https://github.com/PriyanshiNama",
