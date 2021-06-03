@@ -6,11 +6,12 @@ const CONTRIBUTERS = [
         description: "Hello everyone, this is the first card. Go ahead, add your own!",
         github: "https://github.com/COPS-IITBHU",
     },
-    // Start adding your data below
+      
     {
-        handle_name: 'subodhk',
-        name: "Subodh Verma",
-        image: "/images/subodh.jpg",
+        handle_name: 'SuyashTripathi-7711',
+        name: "Suyash Tripathi",
+        image: "/images/CSOC'21.jpg",
+        description: "Hello everyone, Welcome to my world!",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
@@ -31,7 +32,7 @@ const CONTRIBUTERS = [
                 <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
             </div>
         `,
-        github: "https://github.com/subodhk01",
+        github: "https://github.com/SuyashTripathi-7711",
     },
 ];
 
