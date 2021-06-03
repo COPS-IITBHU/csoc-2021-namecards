@@ -33,6 +33,15 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    
+    {
+        handle_name: 'vaibhavj',
+        name: "Vaibhav Joshi",
+        image: "/images/vaibhav.jpg",
+        description: " “A lie is just a great story that someone ruined with the truth.” ― Barney Stinson ",
+        github: "https://github.com/VAIBHAVJOE101",
+    },
+    
 ];
 
 export default CONTRIBUTERS;
