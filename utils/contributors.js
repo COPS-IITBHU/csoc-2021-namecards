@@ -1,5 +1,12 @@
 const CONTRIBUTERS = [
-       // Start adding your data below
+    {
+        handle_name: 'cops_iitbhu',
+        name: "First Card",
+        image: "/images/cops.jpg",
+        description: "Hello everyone, this is the first card. Go ahead, add your own!",
+        github: "https://github.com/COPS-IITBHU",
+    },
+    // Start adding your data below
     {
         handle_name: 'subodhk',
         name: "Subodh Verma",
@@ -29,11 +36,10 @@ const CONTRIBUTERS = [
     {
         handle_name: '420-Madhav',
         name: "Madhav Jhunjhunwala",
-        image: "/images/CSoc_image.jpg",
-        description: "Hello everyone, this is my namecard.",
+        image: "/images/CSoc.jpg",
+        description: "My namecard",
         github: "https://github.com/420-Madhav",
     },
-
 ];
 
 export default CONTRIBUTERS;
