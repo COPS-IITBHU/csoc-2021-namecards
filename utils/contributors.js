@@ -34,7 +34,6 @@ const CONTRIBUTERS = [
         github: "https://github.com/subodhk01",
     },
     {
-
         handle_name: 'satakshi08',
         name: "Satakshi Pal",
         image: "/images/logo.jpg",
