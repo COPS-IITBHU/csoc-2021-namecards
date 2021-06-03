@@ -14,25 +14,50 @@ const CONTRIBUTERS = [
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
-                <lord-icon src="https://cdn.lordicon.com//gmzxduhd.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon> 
+                <lord-icon src="https://cdn.lordicon.com//gmzxduhd.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
                     Chilling
                 <lord-icon src="https://cdn.lordicon.com//gmzxduhd.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
                 <br />
-                <lord-icon src="https://cdn.lordicon.com//xxtkutpo.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon> 
+                <lord-icon src="https://cdn.lordicon.com//xxtkutpo.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
                     Working
                 <lord-icon src="https://cdn.lordicon.com//xxtkutpo.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
                 <br />
-                <lord-icon src="https://cdn.lordicon.com//pndvzexs.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon> 
+                <lord-icon src="https://cdn.lordicon.com//pndvzexs.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
                     Playing
                 <lord-icon src="https://cdn.lordicon.com//pndvzexs.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
                 <br />
-                <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon> 
+                <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
                     Eating
                 <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
             </div>
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'swayamshu',
+        name: "Swayamshu Swain",
+        image: "/images/SurprisedPikachu.jpg",
+        description: `
+            <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
+            <div>
+                <lord-icon src="https://cdn.lordicon.com//fkytfmrm.json" trigger="loop" colors="primary:#121331,secondary:#eee966" style="width:250px;height:250px"></lord-icon>
+                Eat
+                <br/>
+                <lord-icon src="https://cdn.lordicon.com//hciqteio.json" trigger="loop" colors="primary:#000000,secondary:#e86830" style="width:250px;height:250px"></lord-icon>
+                Jamm
+                <br/>
+                <lord-icon src="https://cdn.lordicon.com//ktxpktdd.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:250px;height:250px"></lord-icon>
+                Game
+                <br/>
+                <lord-icon src="https://cdn.lordicon.com//anihkfxp.json" trigger="loop" colors="primary:#121331,secondary:#ee6d66" style="width:250px;height:250px"></lord-icon>
+                Code
+                <br/>
+                <lord-icon src="https://cdn.lordicon.com//ahatttod.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:250px;height:250px"></lord-icon>
+                Repeat
+            </div>
+        `,
+        github: "https://github.com/Swayamshu",
+    }
 ];
 
 export default CONTRIBUTERS;
