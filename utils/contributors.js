@@ -1,10 +1,9 @@
 const CONTRIBUTERS = [
-    
-    // Start adding your data below
+       // Start adding your data below
     {
-        handle_name: '420-Madhav',
-        name: "Madhav Jhunjhunwala",
-        image: "/images/CSoc_image.jpg",
+        handle_name: 'subodhk',
+        name: "Subodh Verma",
+        image: "/images/subodh.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
@@ -25,16 +24,16 @@ const CONTRIBUTERS = [
                 <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
             </div>
         `,
-        github: "https://github.com/420-Madhav",
+        github: "https://github.com/subodhk01",
     },
     {
-        handle_name: 'cops_iitbhu',
-        name: "First Card",
-        image: "/images/cops.jpg",
-        description: "Hello everyone, this is the first card. Go ahead, add your own!",
-        github: "https://github.com/COPS-IITBHU",
+        handle_name: '420-Madhav',
+        name: "Madhav Jhunjhunwala",
+        image: "/images/CSoc_image.jpg",
+        description: "Hello everyone, this is my namecard.",
+        github: "https://github.com/420-Madhav",
     },
-];
 
+];
 
 export default CONTRIBUTERS;
