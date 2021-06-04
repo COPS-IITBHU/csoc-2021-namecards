@@ -33,6 +33,31 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'mayank-s-ingh',
+        name: "Mayank Singh",
+        image: "/images/mayank_img.jpeg",
+        description: `<p>Hello Everyone! This is my first name card</p>
+        <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
+        <div>
+            Hey!
+            <lord-icon src="https://cdn.lordicon.com//eszyyflr.json" trigger="loop"
+                colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px">
+            </lord-icon>
+            <br>
+            My first git repository
+            <lord-icon src="https://cdn.lordicon.com//ochimkct.json" trigger="loop"
+                colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px">
+            </lord-icon>
+            <br>
+            Smiling cause I've done it
+            <lord-icon src="https://cdn.lordicon.com//pithnlch.json" trigger="loop"
+                colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px">
+            </lord-icon>
+        </div>
+        `,
+        github: "https://github.com/mayank-s-ingh",
+    },
 ];
 
 export default CONTRIBUTERS;
