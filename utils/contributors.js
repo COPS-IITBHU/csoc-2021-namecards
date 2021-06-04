@@ -37,7 +37,7 @@ const CONTRIBUTERS = [
         handle_name: 'MaggieD',
         name: "Megh Dokania",
         image: "/images/Megh.jpg",
-        description: "Hey everyone",
+        description: "Hey everyone I am Megh from ceramic",
         github: "https://github.com/meghdokania",
     },
 ];
