@@ -39,8 +39,6 @@ const CONTRIBUTERS = [
         image: "/images/ujjawal.jpg",
         description: "Hi I am Ujjawal Sharma. I am a Tech Enthusiast and love to code. My interest lies in Web Dev and Competitive Programming",
         github: 'https://github.com/ujju20',
-        
-
     },
 ];
 
