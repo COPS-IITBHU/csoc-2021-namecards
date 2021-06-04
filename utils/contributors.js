@@ -7,13 +7,6 @@ const CONTRIBUTERS = [
         github: "https://github.com/COPS-IITBHU",
     },
     {
-        handle_name: 'huehueaJ',
-        name: "Aadish Jain",
-        image: "/images/aadish.jpg",
-        description: "Hello everyone, Myself Aadish Jain from electrical department, IIT BHU. Just enjoying and learning new things!",
-        github: "https://github.com/huehueaJ",
-    },
-    {
         handle_name: 'subodhk',
         name: "Subodh Verma",
         image: "/images/subodh.jpg",
@@ -38,6 +31,13 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/subodhk01",
+    },
+    {
+        handle_name: 'huehueaJ',
+        name: "Aadish Jain",
+        image: "/images/aadish.jpg",
+        description: "Hello everyone, Myself Aadish Jain from electrical department and I am excited to explore and learn new things!",
+        github: "https://github.com/huehueaJ",
     },
 ];
 
