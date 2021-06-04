@@ -11,7 +11,7 @@ const CONTRIBUTERS = [
         handle_name: 'devanshu-08',
         name: "Devanshu Agrawal",
         image: "/images/devanshu.jpg",
-        description: `
+        description:"Hey Guys, here is my first namecard!" `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
                 <lord-icon src="https://cdn.lordicon.com//gmzxduhd.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon> 
