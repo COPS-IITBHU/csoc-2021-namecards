@@ -6,7 +6,13 @@ const CONTRIBUTERS = [
         description: "Hello everyone, this is the first card. Go ahead, add your own!",
         github: "https://github.com/COPS-IITBHU",
     },
-    // Start adding your data below
+    {
+        handle_name: 'huehueaJ',
+        name: "Aadish Jain",
+        image: "/images/aadish.jpg",
+        description: "Hello everyone, Myself Aadish Jain from electrical department, IIT BHU. Just enjoying and learning new things!",
+        github: "https://github.com/huehueaJ",
+    },
     {
         handle_name: 'subodhk',
         name: "Subodh Verma",
