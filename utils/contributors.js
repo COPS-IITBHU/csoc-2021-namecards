@@ -36,8 +36,8 @@ const CONTRIBUTERS = [
     {
         handle_name: 'Yshaq',
         name: "Vysakh A V",
-        image: "/images/subodh.jpg",
-        description: "Hi guys, am Vysakh ;3",
+        image: "/images/vysakh.jpeg",
+        description: "Hey guys! Just hanging around, learning some dev skills.",
         github: "https://github.com/Yshaq",
     },
 ];
