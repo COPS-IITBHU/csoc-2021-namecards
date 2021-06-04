@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'it-is-skywalkerl',
+        name: "Sanskar Santosh Totla",
+        image: "/images/red_lightsaber.jpg",
+        description: "Hello everyone. I'm Sanskar and I like music, coffee and coding",
+        github: "https://github.com/it-is-skywalkerl",
+    },
 ];
 
 export default CONTRIBUTERS;
