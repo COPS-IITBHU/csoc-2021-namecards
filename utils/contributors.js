@@ -36,3 +36,10 @@ const CONTRIBUTERS = [
 ];
 
 export default CONTRIBUTERS;
+{
+    handle_name: 'imshubham7',
+    name: "Shubham Nehete",
+    image: "/images/shubham.jpg",
+    description: "Hello everyone, just trying out something new :)",
+    github: "https://github.com/imshubham7",
+}
