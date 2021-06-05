@@ -10,7 +10,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'Kalpitadhao77',
         name: "Kalpit Adhao",
-        image: "untitled.jpg",
+        image: "/images/Kalpit.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
