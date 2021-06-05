@@ -40,7 +40,6 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
-    
 ];
 
 export default CONTRIBUTERS;
