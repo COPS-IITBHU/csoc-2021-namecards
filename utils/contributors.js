@@ -37,8 +37,8 @@ const CONTRIBUTERS = [
         handle_name: 'sahil',
         name: "Sahil saini",
         image: "/images/sahilsaini.jpg",
-        description: `"Love to work, if i love the work."     
-        `,
+        description: "Love to work, if i love the work."     
+         ,
         github:"https://github.com/sahilsaini110",
     },
 ];
