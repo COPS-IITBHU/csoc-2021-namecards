@@ -36,3 +36,10 @@ const CONTRIBUTERS = [
 ];
 
 export default CONTRIBUTERS;
+{
+        handle_name: 'divya521',
+        name: "Divya Singh Rathore ",
+        image: "/images/IMG-20191225-WA0011.jpg",
+        description: "Hello everyone, this is the divya. Go ahead, add your own!",
+        github: "https://github.com/divya521",
+    },
