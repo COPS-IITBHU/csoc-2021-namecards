@@ -36,10 +36,10 @@ const CONTRIBUTERS = [
 
     {
         handle_name: 'Manali Pawar',
-        name: "helix.jpg",
-        image: "/images/cops.jpg",
-        description: "Hello everyone, this is the first card. Go ahead, add your own!",
-        github: "https://github.com/COPS-IITBHU",
+        name: "Manali Pawar.jpg",
+        image: "/images/Manali Pawar.jpg",
+        description: "Hello everyone, this is the Manali Pawar. I have added the image and edited my details",
+        github: "https://github.com/ManaliPawar",
     },
 
     
