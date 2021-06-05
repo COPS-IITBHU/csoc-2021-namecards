@@ -1,0 +1,9 @@
+<robot name="robot_name">
+    <link name="link1">
+        <visual>
+            <geometry>
+                <cylinder radius="1.0" length="4.0"/>
+            </geometry>
+        </visual>
+    </link>
+</robot>
