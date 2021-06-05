@@ -8,6 +8,13 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
+        handle_name: 'tech_wiz18',
+        name: "Megha Garg",
+        image: "/images/Megha.jpg",
+        description: "Hello everyone, this is Megha Garg. Go ahead, add your own!",
+        github: "https://github.com/tech-wiz18",
+    },
+    {
         handle_name: 'subodhk',
         name: "Subodh Verma",
         image: "/images/subodh.jpg",
