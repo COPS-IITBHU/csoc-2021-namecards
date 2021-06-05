@@ -33,6 +33,14 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+
+    {
+        handle_name: 'sharkyAligator',
+        name: "Sachin Kumar",
+        image: "/images/thor.jpg",
+        description: "Hi, this is sachin kumar from electronics branch @iitbhu, varanasi. Also, i love to explore new things",
+        github: "https://github.com/sharkyAligator",
+    },
 ];
 
 export default CONTRIBUTERS;
