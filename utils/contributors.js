@@ -40,7 +40,7 @@ const CONTRIBUTERS = [
         image: "public/images/nikhil-img.jpg",
         description: "Hello everyone, This is the namecard for Nikhil.",
         github: "https://github.com/NikhilRana-207",
-    }
+    },
 ];
 
 export default CONTRIBUTERS;
