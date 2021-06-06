@@ -8,9 +8,7 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
-        handle_name: 'Kalpitadhao77',
-        name: "Kalpit Adhao",
-        image: "/images/untitled.jpg",
+    
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
@@ -33,6 +31,12 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/Kalpitadhao77",
     },
+  {
+      handle_name: 'Kalpitadhao77',
+        name: "Kalpit Adhao",
+        image: "/images/untitled.jpg",
+        image: "/images/Kalpit.jpg",
+  },
     
 ];
 
