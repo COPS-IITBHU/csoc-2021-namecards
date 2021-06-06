@@ -34,7 +34,6 @@ const CONTRIBUTERS = [
         github: "https://github.com/subodhk01",
     },
 
-    // Pranshu Kashyap Profile Card !! 
     {
         handle_name: 'pranshukas',
         name: "Pranshu Kashyap",
