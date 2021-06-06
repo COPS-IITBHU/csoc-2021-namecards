@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'SymmetricEntropy',
+        name: "Kriti Chaudhari",
+        image: "/images/kriti.jpg",
+        description: "I wandered lonely as a cloud..",
+        github: "https://github.com/SymmetricEntropy",
+    },
 ];
 
 export default CONTRIBUTERS;
