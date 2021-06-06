@@ -37,9 +37,9 @@ const CONTRIBUTERS = [
     {
         handle_name: 'Vikrant-Professor',
         name: "Vikrant",
-        image: "/images/goku.jpg",
+        image: "/images/goku.png",
         description: 'Vikrant, Electronics Engineering',
-        github: "https://github.com/Vikrant-Professor"
+        github: "https://github.com/Vikrant-Professor",
     }
 ];
 
