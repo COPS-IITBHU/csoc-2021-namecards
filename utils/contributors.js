@@ -36,7 +36,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'Divyansh013',
         name: "Divyansh Srivastava",
-        image: "/images/FB_IMG_16152095976820467.jpg",
+        image: "/images/Divyansh.jpg",
         description: "Hey everyone this is Divyansh Srivastava and this is my first github contribution",
         github: "https://github.com/Divyansh013",
     },
