@@ -33,7 +33,6 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
-    // added namecard for Nikhil, EE '24.
     {
         handle_name: 'NikhilRana-207',
         name: "Nikhil",
