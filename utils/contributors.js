@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'Pallavi',
+        name: "Pallavi",
+        image: "C:\Users\manik\Documents\GitHub\csoc-2021-namecards\public\images\img.jpeg",
+        description: "Hello everyone!",
+        github: "https://github.com/Pallavi-1108",
+    },
 ];
 
 export default CONTRIBUTERS;
