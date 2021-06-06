@@ -57,8 +57,8 @@ const CONTRIBUTERS = [
                 <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
             </div>
         `,
-        github: "https://github.com/subodhk01",
-    }
+        github: "https://github.com/devansh12b2",
+    },
 ];
 
 export default CONTRIBUTERS;
