@@ -8,6 +8,14 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
+        handle_name: 'divya521',
+        name: "divya singh rathore ",
+        image: "/images/img-20191225-wa0011.jpg",
+        description: "hello everyone, this is the divya. go ahead, add your own!",
+        github: "https://github.com/divya521",
+    },
+
+    {
         handle_name: 'subodhk',
         name: "Subodh Verma",
         image: "/images/subodh.jpg",
@@ -36,10 +44,4 @@ const CONTRIBUTERS = [
 ];
 
 export default CONTRIBUTERS;
-{
-        handle_name: 'divya521',
-        name: "Divya Singh Rathore ",
-        image: "/images/IMG-20191225-WA0011.jpg",
-        description: "Hello everyone, this is the divya. Go ahead, add your own!",
-        github: "https://github.com/divya521",
-    },
+
