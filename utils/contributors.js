@@ -35,7 +35,7 @@ const CONTRIBUTERS = [
     },
 
     {
-        handle_name: 'Gagan77770'
+        handle_name: 'Gagan77770',
         name: "Gagan Mundada",
         image: "/images/gagan.jpg",
         description: `
