@@ -11,6 +11,9 @@ const CONTRIBUTERS = [
         handle_name: 'subodhk',
         name: "Subodh Verma",
         image: "/images/subodh.jpg",
+        handle_name: 'isheoran',
+        name: "Subhash",
+        image: "/images/subhash.jpeg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
@@ -32,6 +35,7 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/subodhk01",
+        github: "https://github.com/isheoran",
     },
 ];
 
