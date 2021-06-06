@@ -9,7 +9,7 @@ const CONTRIBUTERS = [
     // Start adding your data below
     {
         handle_name: 'subodhk',
-        name: "Subodh Verma",
+        name: "Chitrank Agarwal",
         image: "/images/subodh.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
