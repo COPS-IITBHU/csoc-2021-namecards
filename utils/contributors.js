@@ -32,7 +32,13 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/subodhk01",
-    },
+    }, {
+        handle_name: 'Srishti2002-jai',
+        name: "Srishti Jaiswal",
+        image: "lake-java-indonesia.ngsversion.1574878503148.adapt.1900.1",
+        description: "I did this task finally may be",
+        github: "https://github.com/Srishti2002-jai",
+    }
 ];
 
 export default CONTRIBUTERS;
