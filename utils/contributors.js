@@ -33,6 +33,37 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+
+    {
+        handle_name: 'pranshukas',
+        name: "Pranshu Kashyap",
+        image: "/images/Pranshu-Kashyap.png",
+        description: `
+            <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
+            
+            <div class="text-center">
+
+                <lord-icon src="https://cdn.lordicon.com//anihkfxp.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon> 
+                    Programming 
+                <lord-icon src="https://cdn.lordicon.com//anihkfxp.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon> 
+                <br />
+                <lord-icon src="https://cdn.lordicon.com//rzrkjbrm.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon> 
+                    Movie
+                <lord-icon src="https://cdn.lordicon.com//rzrkjbrm.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
+                <br />
+                <lord-icon src="https://cdn.lordicon.com//gmzxduhd.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon> 
+                    Chilling
+                <lord-icon src="https://cdn.lordicon.com//gmzxduhd.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
+                <br />
+                <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon> 
+                    Pizza !!!
+                <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
+                <br/> <br/>
+                Sweet, Simple, love to Code !! Competitive Programming is my True ❤️ ... 
+            </div>
+        `,
+        github: "https://github.com/pranshukas",
+    },
 ];
 
 export default CONTRIBUTERS;
