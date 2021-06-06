@@ -33,8 +33,9 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    
     {
-        handle_name: 'Pallavi',
+        handle_name: 'Pallavi-1108',
         name: "Pallavi",
         image: "C:\Users\manik\Documents\GitHub\csoc-2021-namecards\public\images\img.jpeg",
         description: "Hello everyone!",
