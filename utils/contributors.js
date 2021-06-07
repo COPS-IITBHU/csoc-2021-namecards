@@ -11,6 +11,10 @@ const CONTRIBUTERS = [
         handle_name: 'subodhk',
         name: "Subodh Verma",
         image: "/images/subodh.jpg",
+        handle_name: 'Kalpitadhao77',
+        name: "Kalpit Adhao",
+        image: "/images/Kalpit.jpg",
+        github: "https://github.com/Kalpitadhao77",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
@@ -32,13 +36,6 @@ const CONTRIBUTERS = [
             </div>
         `, github: "https://github.com/subodhk01",
     },
-  {
-      handle_name: 'Kalpitadhao77',
-      name: "Kalpit Adhao",
-      image: "/images/Kalpit.jpg",
-      github: "https://github.com/Kalpitadhao77",
-  },
-    
 ];
 
 export default CONTRIBUTERS;
