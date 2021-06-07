@@ -40,7 +40,7 @@ const CONTRIBUTERS = [
         image: "/images/goku.png",
         description: 'Vikrant, Electronics Engineering',
         github: "https://github.com/Vikrant-Professor",
-    }
+    },
 ];
 
 export default CONTRIBUTERS;
