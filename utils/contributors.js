@@ -36,7 +36,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'Ayushi501',
         name: "Ayushi",
-        image: "/Ayushi-Yadav.jpg",
+        image: "/images/Ayushi-Yadav.jpg",
         description: "Hello everyone, this is the first card. ayushi",
         github: "https://github.com/Ayushi601",
     },
