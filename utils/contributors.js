@@ -36,10 +36,10 @@ const CONTRIBUTERS = [
     {
         handle_name: 'rahulsingh522003',
         name: "Rahul Singh",
-        image: "Rahul_image.jpg",
+        image: "public/images/Rahul_image.jpeg",
         description: "Hello everyone, Myself Rahul Singh",
         github: "https://github.com/rahulsingh522003",
-    }
+    },
 ];
 
 export default CONTRIBUTERS;
