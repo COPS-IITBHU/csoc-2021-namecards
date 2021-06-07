@@ -11,6 +11,10 @@ const CONTRIBUTERS = [
         handle_name: 'subodhk',
         name: "Subodh Verma",
         image: "/images/subodh.jpg",
+        handle_name: 'Kalpitadhao77',
+        name: "Kalpit Adhao",
+        image: "/images/Kalpit.jpg",
+        github: "https://github.com/Kalpitadhao77",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
@@ -30,8 +34,7 @@ const CONTRIBUTERS = [
                     Eating
                 <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
             </div>
-        `,
-        github: "https://github.com/subodhk01",
+        `, github: "https://github.com/subodhk01",
     },
 ];
 
