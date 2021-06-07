@@ -39,7 +39,7 @@ const CONTRIBUTERS = [
         image: "/images/shubham.jpg",
         description: "Hello everyone, just trying out something new :)",
         github: "https://github.com/imshubham7",
-    }
+    },
 ];
 
 export default CONTRIBUTERS;
