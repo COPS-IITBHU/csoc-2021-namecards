@@ -39,7 +39,7 @@ const CONTRIBUTERS = [
         image: "/images/Pa_civil.jpg",
         description: "Hello everyone, this is the first card.",
         github: "https://github.com/Darkcoder-paditya",
-    }
+    },
 ];
 
 export default CONTRIBUTERS;
