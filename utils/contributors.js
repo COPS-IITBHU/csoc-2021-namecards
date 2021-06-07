@@ -33,7 +33,6 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
-
     {
             handle_name: 'rexFX',
             name: "Shivam Karn",
