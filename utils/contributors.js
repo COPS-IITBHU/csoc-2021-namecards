@@ -7,6 +7,12 @@ const CONTRIBUTERS = [
         github: "https://github.com/COPS-IITBHU",
     },
     // Start adding your data below
+    {	handle_name: 'kshubham01',
+        name: "Shubham Kumar",
+        image: "/home/shubham/Pictures/shubham01.jpg",
+        description: "Hello there, this is my first card",
+        github: "https://github.com/kshubham01",
+    },   
     {
         handle_name: 'subodhk',
         name: "Subodh Verma",
