@@ -39,7 +39,7 @@ const CONTRIBUTERS = [
         image: "/images/Adik18.jpg",
         description: "Hello everyone, Aditya Kulkarni's card",
         github: "https://github.com/adit-g-kul18",
-    }
+    },
 ];
 
 export default CONTRIBUTERS;
