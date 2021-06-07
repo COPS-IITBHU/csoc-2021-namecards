@@ -39,7 +39,7 @@ const CONTRIBUTERS = [
         image: "/images/DolceParadise.jpg",
         description: "Nothing Much, Just Chillin'",
         github: "https://github.com/DolceParadise",
-    }
+    };
 ];
 
 export default CONTRIBUTERS;
