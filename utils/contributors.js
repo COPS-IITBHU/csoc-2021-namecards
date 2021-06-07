@@ -34,7 +34,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/subodhk01",
     },
     {
-        handle_name: 'cops_iitbhu',
+        handle_name: 'chirayumit001',
         name: "Chirayu",
         image: "/images/Chirayu_Mittal.png",
         description: "Hello everyone, this is Chirayu from Ceramic part 1!",
