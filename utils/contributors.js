@@ -35,7 +35,7 @@ const CONTRIBUTERS = [
     },
     
     {
-        handle_name: 'rishavsingh',
+        handle_name: 'rishavsingh19',
         name: "Rishav Singh",
         image: "/images/rishav.jpg",
         description: `
@@ -62,6 +62,4 @@ const CONTRIBUTERS = [
     },
 
 ];
-
-
 export default CONTRIBUTERS;
