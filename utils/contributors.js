@@ -36,7 +36,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'adit-g-kul18',
         name: "Aditya Kulkarni",
-        image: "/images/Adik18.jpg",
+        image: "/images/Adik18.jfif",
         description: "Hello everyone, Aditya Kulkarni's card",
         github: "https://github.com/adit-g-kul18",
     },
