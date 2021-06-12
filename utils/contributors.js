@@ -8,7 +8,7 @@ const CONTRIBUTERS = [
     },
     {handle_name: 'AkGu2002',
         name: "Akshita Gupta",
-        image: "/Downloads/index.jpg",
+        image: "/home/akshita/Downloads/index.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
