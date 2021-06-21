@@ -33,6 +33,30 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    // Adding My Card
+    {
+        handle_name: 'Vo1D',
+        name: "Amandeep Rajput",
+        image: "/images/Aman.jpg",
+        description: `
+        <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
+    <div class="text-center">
+        <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
+            Always Hungry
+        <lord-icon src="https://cdn.lordicon.com//jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
+        <br />
+        <lord-icon src="https://cdn.lordicon.com//mmspidej.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
+            Love Music
+        <lord-icon src="https://cdn.lordicon.com//mmspidej.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
+        <br />
+        <lord-icon src="https://cdn.lordicon.com//pithnlch.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>
+            Always Happy
+        <lord-icon src="https://cdn.lordicon.com//pithnlch.json" trigger="loop" colors="primary:#121331,secondary:#08a88a" style="width:25px;height:25px"></lord-icon>   
+    </div>
+    `,
+    github: "https://github.com/AVoid1",
+    },
 ];
+
 
 export default CONTRIBUTERS;
