@@ -1,6 +1,6 @@
 const CONTRIBUTERS = [
     {
-        handle_name: 'cops_iitbhu',
+        handle_name: "cops_iitbhu",
         name: "First Card",
         image: "/images/cops.jpg",
         description: "Hello everyone, this is the first card. Go ahead, add your own!",
@@ -8,7 +8,7 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
-        handle_name: 'subodhk',
+        handle_name: "subodhk",
         name: "Subodh Verma",
         image: "/images/subodh.jpg",
         description: `
@@ -34,9 +34,9 @@ const CONTRIBUTERS = [
         github: "https://github.com/subodhk01",
     },
     {
-        handle_name: 'aditya-chhaparia',
+        handle_name: "aditya-chhaparia",
         name: "Aditya Chhaparia",
-        image: "",
+        image: "/images/aditya.jpg",
         description: "Hello everyone, I am Aditya Chhaparia and this is my card!",
         github: "https://github.com/aditya-chhaparia",
     },
