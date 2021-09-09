@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'yashank',
+        name: "Yashank Aggarwal",
+        image: "/images/yashank.jfif",
+        description: "Hey everyone, I have added my card. Go ahead, add your own!",
+        github: "https://github.com/yashank676",
+    },
 ];
 
 export default CONTRIBUTERS;
