@@ -36,7 +36,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'srbmaury',
         name: "Saurabh Maurya",
-        image: "/images/srbmaury.jpeg",
+        image: "/images/srbmaury.jpg",
         description: "Hello everyone, this is the first card. Go ahead, add your own!",
         github: "https://github.com/srbmaury",
     }
