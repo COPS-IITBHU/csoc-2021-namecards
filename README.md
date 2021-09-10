@@ -5,6 +5,7 @@ this challenge you should have get successfully merged your pull request about
 including your namecard in it.
 
 The Web Page is live at - [COPS-NameCards](https://csoc-2021-namecards.netlify.app/)
+Deployed web page after adding my namecard - [COPS-NameCards-with-Mohit](https://csoc-2021-namecards-mohit.netlify.app/)
 
 ## Steps to Contribute
 
