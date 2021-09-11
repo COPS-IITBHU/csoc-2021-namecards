@@ -32,6 +32,12 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/subodhk01",
+
+        handle_name: 'Sarang-17',
+        name: "Sarang Manerikar",
+        image: "Sarang17.jpeg",
+        description: "Hello guys this is Sarang17, this is my first card",
+        github: "https://github.com/Sarang-17",
     },
 ];
 
