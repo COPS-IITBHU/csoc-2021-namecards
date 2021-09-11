@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'archit64',
+        name: "First Card",
+        image: "/images/use.png",
+        description: "this is my name card",
+        github: "https://github.com/archit64",
+    },
 ];
 
 export default CONTRIBUTERS;
