@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'cops_iitbhu',
+        name: "CardAdded_Shashi",
+        image: "/images/CardAdded.jpg",
+        description: "Hello everyone, this is my first card named as CardAdded.",
+        github: "https://github.com/shashikant1729/csoc-2021-namecards",
+    }
 ];
 
 export default CONTRIBUTERS;
