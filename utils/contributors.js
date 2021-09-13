@@ -34,10 +34,10 @@ const CONTRIBUTERS = [
         github: "https://github.com/subodhk01",
     },
     {
-        handle_name: 'cops_iitbhu',
-        name: "CardAdded_Shashi",
+        handle_name: 'shashi',
+        name: "Shashi Kant",
         image: "/images/CardAdded.jpg",
-        description: "Hello everyone, this is my first card named as CardAdded.",
+        description: "Hello everyone, this is my first card named as CardAdded!",
         github: "https://github.com/shashikant1729",
     }
 ];
