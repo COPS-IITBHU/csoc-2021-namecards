@@ -37,7 +37,7 @@ const CONTRIBUTERS = [
 {
     
     handle_name: 'omnisad0123',
-    name: "First Card",
+    name: "First Cards",
     image: "op.jpg",
     description: "Hello everyone, my name is omprakash  this is the first card. ",
     github: "https://github.com/omnisad0123",
