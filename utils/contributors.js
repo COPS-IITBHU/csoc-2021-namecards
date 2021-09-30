@@ -33,6 +33,13 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/subodhk01",
     },
+    {
+        handle_name: 'pratham1103',
+        name: "Pratham Mittal",
+        image: "/images/pratham.jpeg",
+        description: "Hello Watchers!!! I am Pratham Mittal of IIT BHU, sophomore, to be precise. Just wanna tell you that I do exist!!! but in a parallel universe!!  Now you may continue doing what you were upto, Thank you!!",
+        github: "https://github.com/pratham1103",
+    },
 ];
 
 export default CONTRIBUTERS;
