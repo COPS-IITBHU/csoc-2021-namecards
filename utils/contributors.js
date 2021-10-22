@@ -8,6 +8,37 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
+        handle_name: 'tsari02',
+        name: "Saritesh Tiwari",
+        image: "/images/yoshitake.jpg",
+        description: `
+            <script src="https://cdn.lordicon.com/libs/mssddfmo/lord-icon-2.1.0.js"></script>
+
+            <lord-icon
+                src="https://cdn.lordicon.com/wxnxiano.json"
+                trigger="loop"
+                colors="primary:#121331,secondary:#08a88a"
+                style="width:250px;height:250px">
+            </lord-icon>
+            IIT BHU CSE SOPHOMORE
+            <lord-icon
+                src="https://cdn.lordicon.com/wxnxiano.json"
+                trigger="loop"
+                colors="primary:#121331,secondary:#08a88a"
+                style="width:250px;height:250px">
+            </lord-icon>
+
+
+
+            
+            `,
+        
+        
+        
+        // "Hello everyone, this is the first card. Go ahead, add your own!",
+        github: "https://github.com/tsari02",
+    },
+    {
         handle_name: 'subodhk',
         name: "Subodh Verma",
         image: "/images/subodh.jpg",
